@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>je bolled&&é pa</Text>
+      <Text>je bolledeée&é&&é pa</Text>
       <StatusBar style="auto" />
     </View>
   );
